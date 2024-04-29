@@ -54,6 +54,9 @@ nav h4:nth-child(7){
   width: 10%;
   text-align: center;
 }
+#show{
+  display: none;
+}
 .cont{
   height: 80%;
   width: 100%;
